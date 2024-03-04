@@ -9,3 +9,6 @@
   - The gpaDB contains data for only selected departments, to calculate gpa for other departments add the respective collections(data) inside the "UG" Database.
 
 ![image](https://github.com/harshiniakshaya/GPA-CALC/assets/149646981/23ede208-878d-45cd-acc1-2883040e8eff)
+
+![image](https://github.com/harshiniakshaya/GPA-CALC/assets/149646981/754b42f5-14a9-4b43-97b2-649def4dfdc8)
+
