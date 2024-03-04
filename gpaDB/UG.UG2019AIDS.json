@@ -1,0 +1,370 @@
+[{
+  "_id": {
+    "$oid": "65c0f8d1e4c4e09e210da9cb"
+  },
+  "sem": 1,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "HS19151",
+      "sub": "Technical English",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "MA19156",
+      "sub": "Linear Algebra and Calculus",
+      "credit": 4
+    },
+    {
+      "sno": 3,
+      "subcode": "PH19241",
+      "sub": "Physics for Information Science",
+      "credit": 4
+    },
+    {
+      "sno": 4,
+      "subcode": "GE19141",
+      "sub": "Programming using C",
+      "credit": 4
+    },
+    {
+      "sno": 5,
+      "subcode": "GE19122",
+      "sub": "Engineering Practices- Electrical and Electronics",
+      "credit": 1
+    },
+    {
+      "sno": 6,
+      "subcode": "MC19102",
+      "sub": "Indian Constitution and Freedom Movement",
+      "credit": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c0f948e4c4e09e210da9ce"
+  },
+  "sem": 2,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "MA19254",
+      "sub": "Probability and Inferential Statistics",
+      "credit": 4
+    },
+    {
+      "sno": 2,
+      "subcode": "GE19101",
+      "sub": "Engineering Graphics",
+      "credit": 4
+    },
+    {
+      "sno": 3,
+      "subcode": "EE19242",
+      "sub": "Basic Electrical and Electronics Engineering",
+      "credit": 4
+    },
+    {
+      "sno": 4,
+      "subcode": "EC19243",
+      "sub": "Principles of Digital Electronics",
+      "credit": 4
+    },
+    {
+      "sno": 5,
+      "subcode": "CS19241",
+      "sub": "Data Structures",
+      "credit": 5
+    },
+    {
+      "sno": 6,
+      "subcode": "GE19121",
+      "sub": "Engineering Practices-Civil and Mechanical",
+      "credit": 1
+    },
+    {
+      "sno": 7,
+      "subcode": "CS19211",
+      "sub": "Python Programming Lab",
+      "credit": 2
+    },
+    {
+      "sno": 8,
+      "subcode": "MC19101",
+      "sub": "Environmental Science and Engineering",
+      "credit": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c0f948e4c4e09e210da9cf"
+  },
+  "sem": 3,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "MA19356",
+      "sub": "Discrete Mathematics for AI",
+      "credit": 4
+    },
+    {
+      "sno": 2,
+      "subcode": "GE19301",
+      "sub": "Life Science for Engineers",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "AD19341",
+      "sub": "Fundamentals of Data Science",
+      "credit": 4
+    },
+    {
+      "sno": 4,
+      "subcode": "CS19341",
+      "sub": "Design and Analysis of Algorithms",
+      "credit": 4
+    },
+    {
+      "sno": 5,
+      "subcode": "AD19342",
+      "sub": "Introduction to Operating System",
+      "credit": 4
+    },
+    {
+      "sno": 6,
+      "subcode": "AI19342",
+      "sub": "Object Oriented Programming using JAVA for AI",
+      "credit": 5
+    },
+    {
+      "sno": 7,
+      "subcode": "MC19301",
+      "sub": "Essence of Indian Traditional Knowledge",
+      "credit": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c0f9c6e4c4e09e210da9d1"
+  },
+  "sem": 4,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "MA19456",
+      "sub": "Probability, Statistics and Queuing Theory",
+      "credit": 4
+    },
+    {
+      "sno": 2,
+      "subcode": "AD19401",
+      "sub": "Healthcare Analytics",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "AI19341",
+      "sub": "Principles of Artificial Intelligence",
+      "credit": 4
+    },
+    {
+      "sno": 4,
+      "subcode": "CS19443",
+      "sub": "Database Management System",
+      "credit": 5
+    },
+    {
+      "sno": 5,
+      "subcode": "AD19441",
+      "sub": "Introduction to Data Analytics",
+      "credit": 4
+    },
+    {
+      "sno": 6,
+      "subcode": "GE19421",
+      "sub": "Soft Skills I",
+      "credit": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c0f9c6e4c4e09e210da9d2"
+  },
+  "sem": 5,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "MA19456",
+      "sub": "Optimization Techniques for AI",
+      "credit": 4
+    },
+    {
+      "sno": 2,
+      "subcode": "",
+      "sub": "Professional Elective I",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "",
+      "sub": "Open Elective – I",
+      "credit": 3
+    },
+    {
+      "sno": 4,
+      "subcode": "CS19542",
+      "sub": "Computer Networks",
+      "credit": 5
+    },
+    {
+      "sno": 5,
+      "subcode": "AD19541",
+      "sub": "Software Engineering Methodologies",
+      "credit": 4
+    },
+    {
+      "sno": 6,
+      "subcode": "AD19511",
+      "sub": "R Programming Laboratory",
+      "credit": 2
+    },
+    {
+      "sno": 7,
+      "subcode": "AD19512",
+      "sub": "Mini Project on Data Science",
+      "credit": 2
+    },
+    {
+      "sno": 8,
+      "subcode": "GE19521",
+      "sub": "Soft Skills II",
+      "credit": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c0f9c6e4c4e09e210da9d3"
+  },
+  "sem": 6,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "AD19651",
+      "sub": "Business Analytics",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "AD19652",
+      "sub": "Data and Information Security",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "",
+      "sub": "Professional Elective II",
+      "credit": 3
+    },
+    {
+      "sno": 4,
+      "subcode": "AI19442",
+      "sub": "Fundamentals of Machine Learning",
+      "credit": 4
+    },
+    {
+      "sno": 5,
+      "subcode": "IT19541",
+      "sub": "Web Technology",
+      "credit": 4
+    },
+    {
+      "sno": 6,
+      "subcode": "AD19643",
+      "sub": "Innovation and Design Thinking for Artificial Intelligence and Data Science",
+      "credit": 4
+    },
+    {
+      "sno": 7,
+      "subcode": "GE19621",
+      "sub": "Problem Solving Techniques",
+      "credit": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c0fa5ae4c4e09e210da9d5"
+  },
+  "sem": 7,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "",
+      "sub": "Professional Elective III",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "",
+      "sub": "Professional Elective IV",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "",
+      "sub": "Open Elective-II",
+      "credit": 3
+    },
+    {
+      "sno": 4,
+      "subcode": "AD19751",
+      "sub": "Basics of Computer Vision",
+      "credit": 3
+    },
+    {
+      "sno": 5,
+      "subcode": "AI19741",
+      "sub": "Big Data Technology",
+      "credit": 4
+    },
+    {
+      "sno": 6,
+      "subcode": "AD19711",
+      "sub": "Project Phase-I",
+      "credit": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c0fa5ae4c4e09e210da9d6"
+  },
+  "sem": 8,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "",
+      "sub": "Professional Elective-V",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "",
+      "sub": "Professional Elective-VI",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "AD19811",
+      "sub": "Project Phase-II",
+      "credit": 6
+    }
+  ]
+}]

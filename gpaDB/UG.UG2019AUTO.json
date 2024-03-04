@@ -1,0 +1,406 @@
+[{
+  "_id": {
+    "$oid": "65c0fed7e4c4e09e210da9e8"
+  },
+  "sem": 1,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "HS19151",
+      "sub": "Technical English",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "MA19151 ",
+      "sub": "Algebra and Calculus",
+      "credit": 4
+    },
+    {
+      "sno": 3,
+      "subcode": "PH19141 ",
+      "sub": "Physics of Materials",
+      "credit": 4
+    },
+    {
+      "sno": 4,
+      "subcode": "GE19101 ",
+      "sub": "Engineering Graphics",
+      "credit": 4
+    },
+    {
+      "sno": 5,
+      "subcode": "GE19122",
+      "sub": "Engineering Practices- Civil and Mechanical",
+      "credit": 1
+    },
+    {
+      "sno": 6,
+      "subcode": "MC19101",
+      "sub": "Environmental Science and Engineering",
+      "credit": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c0ff63e4c4e09e210da9ea"
+  },
+  "sem": 2,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "MA19251",
+      "sub": "Differential Equations and Vector Calculus",
+      "credit": 4
+    },
+    {
+      "sno": 2,
+      "subcode": "CY19241",
+      "sub": "Engineering Chemistry",
+      "credit": 4
+    },
+    {
+      "sno": 3,
+      "subcode": "EE19241",
+      "sub": "Basic Electrical Engineering",
+      "credit": 4
+    },
+    {
+      "sno": 4,
+      "subcode": "GE19211",
+      "sub": "Problem solving and programming in Python",
+      "credit": 3
+    },
+    {
+      "sno": 5,
+      "subcode": "GE19201",
+      "sub": "Engineering Mechanics",
+      "credit": 3
+    },
+    {
+      "sno": 6,
+      "subcode": "GE19122",
+      "sub": "Engineering Practices - Electrical and Electronics",
+      "credit": 1
+    },
+    {
+      "sno": 7,
+      "subcode": "MC19102",
+      "sub": "Indian Constitution and Freedom Movement",
+      "credit": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c0ffa6e4c4e09e210da9ec"
+  },
+  "sem": 3,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "GE19304",
+      "sub": "Fundamentals of Management for Engineers",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "MA19351",
+      "sub": "Transforms and Statistics",
+      "credit": 4
+    },
+    {
+      "sno": 3,
+      "subcode": "AT19341",
+      "sub": "Applied Thermodynamics",
+      "credit": 4.5
+    },
+    {
+      "sno": 4,
+      "subcode": "AT19342",
+      "sub": "Automotive Engines",
+      "credit": 4.5
+    },
+    {
+      "sno": 5,
+      "subcode": "AT19343",
+      "sub": "Strength of Materials for Automobile Engineers",
+      "credit": 4.5
+    },
+    {
+      "sno": 6,
+      "subcode": "EC19351",
+      "sub": "Basic Electronics Engineering",
+      "credit": 3
+    },
+    {
+      "sno": 7,
+      "subcode": "AT19311",
+      "sub": "Computer Aided Machine Drawing Laboratory",
+      "credit": 1.5
+    },
+    {
+      "sno": 8,
+      "subcode": "MC19301",
+      "sub": "Essence of Indian Traditional Knowledge",
+      "credit": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c1015be4c4e09e210da9f0"
+  },
+  "sem": 4,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "AT19401",
+      "sub": "Engineering Materials and Metallurgy",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "AT19402",
+      "sub": "Production Technology - I",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "AT19441",
+      "sub": "Fluid Mechanics and Machinery for Automobile Engineers",
+      "credit": 4
+    },
+    {
+      "sno": 4,
+      "subcode": "AT19442",
+      "sub": "Automotive Drive Line and Chassis",
+      "credit": 5
+    },
+    {
+      "sno": 5,
+      "subcode": "AT19443",
+      "sub": "Theory of Machines",
+      "credit": 4
+    },
+    {
+      "sno": 6,
+      "subcode": "GE19421",
+      "sub": "Soft Skills - I",
+      "credit": 1
+    },
+    {
+      "sno": 7,
+      "subcode": "CS19411",
+      "sub": "Python Programming for Machine Learning",
+      "credit": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c1018ae4c4e09e210da9f2"
+  },
+  "sem": 5,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "AT19501",
+      "sub": "Machine Design",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "AT19502",
+      "sub": "Electric and Hybrid Vehicles - I",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "AT19541",
+      "sub": "Automotive Electrical and Electronics",
+      "credit": 4.5
+    },
+    {
+      "sno": 4,
+      "subcode": "AT19542",
+      "sub": "Production Technology - II",
+      "credit": 4.5
+    },
+    {
+      "sno": 5,
+      "subcode": "",
+      "sub": "Open Elective - I",
+      "credit": 3
+    },
+    {
+      "sno": 6,
+      "subcode": "",
+      "sub": "Professional Elective - I",
+      "credit": 3
+    },
+    {
+      "sno": 7,
+      "subcode": "AT19521",
+      "sub": "Two and Three wheelers Laboratory",
+      "credit": 1
+    },
+    {
+      "sno": 8,
+      "subcode": "AT19522",
+      "sub": "Computer Aided Vehicle Design Data Characteristics Laboratory",
+      "credit": 1
+    },
+    {
+      "sno": 9,
+      "subcode": "GE19521",
+      "sub": "Soft Skills - II",
+      "credit": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c101e4e4c4e09e210da9f4"
+  },
+  "sem": 6,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "AT19601",
+      "sub": "Electric and Hybrid Vehicles - II",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "AT19602",
+      "sub": "Automotive Pollution and Control",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "AT19641",
+      "sub": "Automotive System Design",
+      "credit": 4.5
+    },
+    {
+      "sno": 4,
+      "subcode": "AT19642",
+      "sub": "Automotive Fuels and Lubricants",
+      "credit": 4
+    },
+    {
+      "sno": 5,
+      "subcode": "AT19643",
+      "sub": "Vehicle Dynamics",
+      "credit": 4.5
+    },
+    {
+      "sno": 6,
+      "subcode": "",
+      "sub": "Open Elective - II",
+      "credit": 3
+    },
+    {
+      "sno": 7,
+      "subcode": "GE19621",
+      "sub": "Problem solving techniques",
+      "credit": 1
+    },
+    {
+      "sno": 8,
+      "subcode": "AT19611",
+      "sub": "Design Thinking and Innovation for Automobile Engineers",
+      "credit": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c10203e4c4e09e210da9f6"
+  },
+  "sem": 7,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "AT19701",
+      "sub": "Vehicle Management System",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "AT19702",
+      "sub": "Intelligent Vehicle System",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "",
+      "sub": "Professional Elective – II",
+      "credit": 3
+    },
+    {
+      "sno": 4,
+      "subcode": "",
+      "sub": "Professional Elective – III",
+      "credit": 3
+    },
+    {
+      "sno": 5,
+      "subcode": "AT19721",
+      "sub": "Vehicle Maintenance Laboratory",
+      "credit": 1
+    },
+    {
+      "sno": 6,
+      "subcode": "AT19722",
+      "sub": "Computer Aided Analysis Laboratory",
+      "credit": 1
+    },
+    {
+      "sno": 7,
+      "subcode": "AT19723",
+      "sub": "Technical Seminar / Industrial Training / Comprehension",
+      "credit": 1
+    },
+    {
+      "sno": 8,
+      "subcode": "AT19711",
+      "sub": "AI and ML for Automobile Engineers",
+      "credit": 3
+    },
+    {
+      "sno": 9,
+      "subcode": "AT19713",
+      "sub": "Project - Phase I",
+      "credit": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c1023be4c4e09e210da9f8"
+  },
+  "sem": 8,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "",
+      "sub": "Professional Elective – IV",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "",
+      "sub": "Professional Elective – V",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "AT19811",
+      "sub": "Project – Phase II",
+      "credit": 6
+    }
+  ]
+}]

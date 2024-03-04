@@ -1,0 +1,418 @@
+[{
+  "_id": {
+    "$oid": "65c0f65ee4c4e09e210da9ba"
+  },
+  "sem": 1,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "HS19151",
+      "sub": "Technical English",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "MA19151",
+      "sub": "Algebra and Calculus",
+      "credit": 4
+    },
+    {
+      "sno": 3,
+      "subcode": "PH19141",
+      "sub": "Physics of Materials",
+      "credit": 4
+    },
+    {
+      "sno": 4,
+      "subcode": "GE19101",
+      "sub": "Engineering Graphics",
+      "credit": 4
+    },
+    {
+      "sno": 5,
+      "subcode": "GE19121",
+      "sub": "Engineering Practices - Civil and Mechanical",
+      "credit": 1
+    },
+    {
+      "sno": 6,
+      "subcode": "MC19101",
+      "sub": "Environmental Science and Engineering",
+      "credit": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c0f6c6e4c4e09e210da9bc"
+  },
+  "sem": 2,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "MA19251",
+      "sub": "Differential Equations and Vector Calculus",
+      "credit": 4
+    },
+    {
+      "sno": 2,
+      "subcode": "CY19241",
+      "sub": "Engineering Chemistry",
+      "credit": 4
+    },
+    {
+      "sno": 3,
+      "subcode": "EE19242",
+      "sub": "Basic Electrical and Electronics Engineering",
+      "credit": 4
+    },
+    {
+      "sno": 4,
+      "subcode": "GE19201",
+      "sub": "Engineering Mechanics",
+      "credit": 3
+    },
+    {
+      "sno": 5,
+      "subcode": "GE19122",
+      "sub": "Engineering Practices - Electrical and Electronics",
+      "credit": 1
+    },
+    {
+      "sno": 6,
+      "subcode": "GE19211",
+      "sub": "Problem Solving and Programming in Python",
+      "credit": 3
+    },
+    {
+      "sno": 7,
+      "subcode": "MC19102",
+      "sub": "Indian Constitution and Freedom Movement",
+      "credit": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c0f6fbe4c4e09e210da9be"
+  },
+  "sem": 3,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "MA19351",
+      "sub": "Transforms and Statistics",
+      "credit": 4
+    },
+    {
+      "sno": 2,
+      "subcode": "AE19301",
+      "sub": "Fundamentals of Aerospace Engineering",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "AE19302",
+      "sub": "Mechanics of Machines",
+      "credit": 3
+    },
+    {
+      "sno": 4,
+      "subcode": "AE19341",
+      "sub": "Fluid Mechanics and Fluid Machinery",
+      "credit": 4
+    },
+    {
+      "sno": 5,
+      "subcode": "AE19342",
+      "sub": "Solid Mechanics",
+      "credit": 4
+    },
+    {
+      "sno": 6,
+      "subcode": "CS19411",
+      "sub": "Python Programming for Machine Learning",
+      "credit": 3
+    },
+    {
+      "sno": 7,
+      "subcode": "MC19301",
+      "sub": "Essence of Indian Traditional Knowledge",
+      "credit": 0
+    },
+    {
+      "sno": 8,
+      "subcode": "AE19311",
+      "sub": "Computer Aided Modeling Laboratory",
+      "credit": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c0f711e4c4e09e210da9c0"
+  },
+  "sem": 4,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "MA19451",
+      "sub": "Numerical Methods",
+      "credit": 4
+    },
+    {
+      "sno": 2,
+      "subcode": "AE19401",
+      "sub": "Aerodynamics - I",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "AE19403",
+      "sub": "Advanced Strength of Materials",
+      "credit": 3
+    },
+    {
+      "sno": 4,
+      "subcode": "AE19441",
+      "sub": "Aero Engineering Thermodynamics",
+      "credit": 4
+    },
+    {
+      "sno": 5,
+      "subcode": "AE19442",
+      "sub": "Aircraft Materials and Processes",
+      "credit": 4
+    },
+    {
+      "sno": 6,
+      "subcode": "AE19411",
+      "sub": "Aerodynamics Lab",
+      "credit": 2
+    },
+    {
+      "sno": 7,
+      "subcode": "AE19412",
+      "sub": "Aircraft Component Drawing",
+      "credit": 2
+    },
+    {
+      "sno": 8,
+      "subcode": "GE19421",
+      "sub": "Soft Skills - I",
+      "credit": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c0f75be4c4e09e210da9c2"
+  },
+  "sem": 5,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "AE19501",
+      "sub": "Aerodynamics - II",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "AE19502",
+      "sub": "Propulsion - I",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "AE19504",
+      "sub": "Aircraft Structures",
+      "credit": 3
+    },
+    {
+      "sno": 4,
+      "subcode": "AE19505",
+      "sub": "Flight Dynamics",
+      "credit": 3
+    },
+    {
+      "sno": 5,
+      "subcode": "AE19541",
+      "sub": "Aircraft Systems and Instruments",
+      "credit": 3
+    },
+    {
+      "sno": 6,
+      "subcode": "AE19511",
+      "sub": "Aircraft Structures Lab",
+      "credit": 2
+    },
+    {
+      "sno": 7,
+      "subcode": "AE19512",
+      "sub": "Airframe Repair and Aero Engine Laboratory",
+      "credit": 2
+    },
+    {
+      "sno": 8,
+      "subcode": "GE19521",
+      "sub": "Soft Skills - II",
+      "credit": 1
+    },
+    {
+      "sno": 9,
+      "subcode": "",
+      "sub": "OPEN ELECTIVE - I",
+      "credit": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c0f7a9e4c4e09e210da9c4"
+  },
+  "sem": 6,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "AE19601",
+      "sub": "Finite Element Method",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "AE19602",
+      "sub": "Propulsion - II",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "AE19603",
+      "sub": "Control Engineering",
+      "credit": 3
+    },
+    {
+      "sno": 4,
+      "subcode": "AE19641",
+      "sub": "Flight Vehicle Design",
+      "credit": 4
+    },
+    {
+      "sno": 5,
+      "subcode": "GE19304",
+      "sub": "Fundamentals of Management for Engineers",
+      "credit": 3
+    },
+    {
+      "sno": 6,
+      "subcode": "AE19611",
+      "sub": "Jet Propulsion Laboratory",
+      "credit": 2
+    },
+    {
+      "sno": 7,
+      "subcode": "AE19612",
+      "sub": "Innovation and Design Thinking for Engineers",
+      "credit": 2
+    },
+    {
+      "sno": 8,
+      "subcode": "GE19621",
+      "sub": "Problem Solving Techniques",
+      "credit": 1
+    },
+    {
+      "sno": 9,
+      "subcode": "",
+      "sub": "OPEN ELECTIVE - II",
+      "credit": 3
+    },
+    {
+      "sno": 10,
+      "subcode": "AE19721",
+      "sub": "Summer Internship",
+      "credit": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c0f7d5e4c4e09e210da9c6"
+  },
+  "sem": 7,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "AE19701",
+      "sub": "Computational Fluid Dynamics",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "AE19741",
+      "sub": "Avionics",
+      "credit": 4
+    },
+    {
+      "sno": 3,
+      "subcode": "",
+      "sub": "PROFESSIONAL ELECTIVE - I",
+      "credit": 3
+    },
+    {
+      "sno": 4,
+      "subcode": "",
+      "sub": "PROFESSIONAL ELECTIVE – II",
+      "credit": 3
+    },
+    {
+      "sno": 5,
+      "subcode": "",
+      "sub": "PROFESSIONAL ELECTIVE - III",
+      "credit": 3
+    },
+    {
+      "sno": 6,
+      "subcode": "AE19711",
+      "sub": "Project Work (Phase – I)",
+      "credit": 2
+    },
+    {
+      "sno": 7,
+      "subcode": "AE19712",
+      "sub": "Structural and Flow Simulation Laboratory",
+      "credit": 2
+    },
+    {
+      "sno": 8,
+      "subcode": "AE19713",
+      "sub": "Artificial Intelligence and Machine Learning for Aeronautical Engineering",
+      "credit": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c0f815e4c4e09e210da9c8"
+  },
+  "sem": 8,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "",
+      "sub": "PROFESSIONAL ELECTIVE – IV",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "",
+      "sub": "PROFESSIONAL ELECTIVE – V",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "AE19811",
+      "sub": "Project Work (Phase – II)",
+      "credit": 8
+    }
+  ]
+}]

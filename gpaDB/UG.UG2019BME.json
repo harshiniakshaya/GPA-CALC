@@ -1,0 +1,406 @@
+[{
+  "_id": {
+    "$oid": "65c1051be4c4e09e210da9fc"
+  },
+  "sem": 1,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "HS19151",
+      "sub": "Technical English",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "MA19152",
+      "sub": "Linear Algebra and Applied Calculus",
+      "credit": 4
+    },
+    {
+      "sno": 3,
+      "subcode": "PH19142",
+      "sub": "Physics for Bioscience",
+      "credit": 4
+    },
+    {
+      "sno": 4,
+      "subcode": "GE19101",
+      "sub": "Engineering Graphics",
+      "credit": 4
+    },
+    {
+      "sno": 5,
+      "subcode": "GE19121",
+      "sub": "Engineering Practices - Civil & Mechanical",
+      "credit": 1
+    },
+    {
+      "sno": 6,
+      "subcode": "MC19101",
+      "sub": "Environmental Science and Engineering",
+      "credit": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c105f4e4c4e09e210daa02"
+  },
+  "sem": 2,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "MA19252",
+      "sub": "Differential Equations and Complex Variables",
+      "credit": 4
+    },
+    {
+      "sno": 2,
+      "subcode": "CY19142",
+      "sub": "Chemistry For Electronics Engineering",
+      "credit": 4
+    },
+    {
+      "sno": 3,
+      "subcode": "BM19241",
+      "sub": "Electric Circuits and Electron Devices",
+      "credit": 5
+    },
+    {
+      "sno": 4,
+      "subcode": "ME19251",
+      "sub": "Engineering Mechanics for Biomedical Engineers",
+      "credit": 4
+    },
+    {
+      "sno": 5,
+      "subcode": "CS19242",
+      "sub": "Fundamentals of Data Structures using C",
+      "credit": 5
+    },
+    {
+      "sno": 6,
+      "subcode": "GE19122",
+      "sub": "Engineering Practices- Electrical and Electronics",
+      "credit": 1
+    },
+    {
+      "sno": 7,
+      "subcode": "MC19102",
+      "sub": "Indian Constitution and Freedom Movement",
+      "credit": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c10639e4c4e09e210daa04"
+  },
+  "sem": 3,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "MA19352",
+      "sub": "Transforms and Special Functions",
+      "credit": 4
+    },
+    {
+      "sno": 2,
+      "subcode": "BM19301",
+      "sub": "Human Anatomy and Physiology",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "BM19341",
+      "sub": "Electronic Circuits",
+      "credit": 4
+    },
+    {
+      "sno": 4,
+      "subcode": "BM19342",
+      "sub": "Sensors and Measurements",
+      "credit": 3
+    },
+    {
+      "sno": 5,
+      "subcode": "BM19343",
+      "sub": "Electric fields and Machines",
+      "credit": 3
+    },
+    {
+      "sno": 6,
+      "subcode": "BM19302",
+      "sub": "Biochemical Science",
+      "credit": 3
+    },
+    {
+      "sno": 7,
+      "subcode": "BM19311",
+      "sub": "Biochemistry and Physiology Laboratory",
+      "credit": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c1077ee4c4e09e210daa06"
+  },
+  "sem": 4,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "MA19452",
+      "sub": "Probability and Random Process",
+      "credit": 4
+    },
+    {
+      "sno": 2,
+      "subcode": "BM19401",
+      "sub": "Biomedical Instrumentation",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "BM19402",
+      "sub": "Analog and Digital Integrated Circuits",
+      "credit": 3
+    },
+    {
+      "sno": 4,
+      "subcode": "BM19441",
+      "sub": "Pathology and Microbiology",
+      "credit": 3
+    },
+    {
+      "sno": 5,
+      "subcode": "GE19211",
+      "sub": "Problem Solving and Programming in Python",
+      "credit": 3
+    },
+    {
+      "sno": 6,
+      "subcode": "BM19403",
+      "sub": "Principles of Communication Systems",
+      "credit": 3
+    },
+    {
+      "sno": 7,
+      "subcode": "BM19411",
+      "sub": "Analog and Digital Integrated Circuits Laboratory",
+      "credit": 2
+    },
+    {
+      "sno": 8,
+      "subcode": "BM19421",
+      "sub": "PCB Design Laboratory",
+      "credit": 1
+    },
+    {
+      "sno": 9,
+      "subcode": "GE19421",
+      "sub": "Soft Skills-I",
+      "credit": 1
+    },
+    {
+      "sno": 10,
+      "subcode": "MC19301",
+      "sub": "Essence of Indian Traditional knowledge",
+      "credit": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c107c4e4c4e09e210daa08"
+  },
+  "sem": 5,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "BM19501",
+      "sub": "Biocontrol systems",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "BM19541",
+      "sub": "Signals and Systems Analysis",
+      "credit": 4
+    },
+    {
+      "sno": 3,
+      "subcode": "BM19542",
+      "sub": "Microprocessor, Microcontroller and Embedded System Design",
+      "credit": 4
+    },
+    {
+      "sno": 4,
+      "subcode": "CS19411",
+      "sub": "Python Programming for Machine learning",
+      "credit": 3
+    },
+    {
+      "sno": 5,
+      "subcode": "",
+      "sub": "Open Elective - I",
+      "credit": 3
+    },
+    {
+      "sno": 6,
+      "subcode": "BM19511",
+      "sub": "Biomedical Instrumentation Laboratory",
+      "credit": 2
+    },
+    {
+      "sno": 7,
+      "subcode": "GE19521",
+      "sub": "Soft Skills - II",
+      "credit": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c107ebe4c4e09e210daa0a"
+  },
+  "sem": 6,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "BM19601",
+      "sub": "Diagnostic and Therapeutic Equipment",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "BM19602",
+      "sub": "Biomechanics",
+      "credit": 4
+    },
+    {
+      "sno": 3,
+      "subcode": "BM19641",
+      "sub": "Digital Signal Processing Techniques",
+      "credit": 4
+    },
+    {
+      "sno": 4,
+      "subcode": "",
+      "sub": "Professional Elective - I",
+      "credit": 3
+    },
+    {
+      "sno": 5,
+      "subcode": "",
+      "sub": "Open Elective - II",
+      "credit": 3
+    },
+    {
+      "sno": 6,
+      "subcode": "BM19611",
+      "sub": "Diagnostic and Therapeutic Equipment Laboratory",
+      "credit": 2
+    },
+    {
+      "sno": 7,
+      "subcode": "BM19642",
+      "sub": "Innovation and Design thinking for Biomedical Engineers",
+      "credit": 2
+    },
+    {
+      "sno": 8,
+      "subcode": "GE19621",
+      "sub": "Problem solving techniques",
+      "credit": 1
+    },
+    {
+      "sno": 9,
+      "subcode": "BM19612",
+      "sub": "Medical Industrial Training",
+      "credit": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c1088de4c4e09e210daa0c"
+  },
+  "sem": 7,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "BM19701",
+      "sub": "Hospital Engineering and Management",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "BM19741",
+      "sub": "Digital Image Processing Techniques",
+      "credit": 4
+    },
+    {
+      "sno": 3,
+      "subcode": "",
+      "sub": "Professional Elective - 2",
+      "credit": 3
+    },
+    {
+      "sno": 4,
+      "subcode": "",
+      "sub": "Professional Elective - 3",
+      "credit": 3
+    },
+    {
+      "sno": 5,
+      "subcode": "BM19711",
+      "sub": "Project Phase-I",
+      "credit": 3
+    },
+    {
+      "sno": 6,
+      "subcode": "BM19712",
+      "sub": "Hospital Training",
+      "credit": 1
+    },
+    {
+      "sno": 7,
+      "subcode": "BM19713",
+      "sub": "AI-ML-DL in Healthcare",
+      "credit": 3
+    },
+    {
+      "sno": 8,
+      "subcode": "BM19721",
+      "sub": "Comprehension In Biomedical Engineering",
+      "credit": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c108cce4c4e09e210daa0e"
+  },
+  "sem": 8,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "",
+      "sub": "Professional Elective - 4",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "",
+      "sub": "Professional Elective - 5",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "BM19811",
+      "sub": "Project Phase-II",
+      "credit": 8
+    }
+  ]
+}]

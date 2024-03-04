@@ -1,0 +1,364 @@
+[{
+  "_id": {
+    "$oid": "65be10ffd87f2b31ae17ed1c"
+  },
+  "sem": 1,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "HS19151",
+      "sub": "Technical English",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "MA19152",
+      "sub": "Linear Algebra and Applied Calculus",
+      "credit": 4
+    },
+    {
+      "sno": 3,
+      "subcode": "CY19143",
+      "sub": "Applied Chemistry",
+      "credit": 4
+    },
+    {
+      "sno": 4,
+      "subcode": "GE19141",
+      "sub": "Programming using C",
+      "credit": 4
+    },
+    {
+      "sno": 5,
+      "subcode": "GE19122",
+      "sub": "Engineering Practices- Electrical and Electronics",
+      "credit": 1
+    },
+    {
+      "sno": 6,
+      "subcode": "MC19102",
+      "sub": "Indian Constitution and Freedom Movement",
+      "credit": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65be11d0d87f2b31ae17ed22"
+  },
+  "sem": 2,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "MA19252",
+      "sub": "Differential Equations and Complex Variables",
+      "credit": 4
+    },
+    {
+      "sno": 2,
+      "subcode": "GE19101",
+      "sub": "Engineering Graphics",
+      "credit": 4
+    },
+    {
+      "sno": 3,
+      "subcode": "PH19241",
+      "sub": "Physics for Information Science",
+      "credit": 4
+    },
+    {
+      "sno": 4,
+      "subcode": "EE19242",
+      "sub": "Basic Electrical and Electronics Engineering",
+      "credit": 4
+    },
+    {
+      "sno": 5,
+      "subcode": "IT19241",
+      "sub": "Data Structures Fundamentals",
+      "credit": 5
+    },
+    {
+      "sno": 6,
+      "subcode": "GE19121",
+      "sub": "Engineering Practices-Civil & Mechanical",
+      "credit": 1
+    },
+    {
+      "sno": 7,
+      "subcode": "MC19101",
+      "sub": "Environmental Science and Engineering",
+      "credit": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65be11fdd87f2b31ae17ed24"
+  },
+  "sem": 3,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "MA19354",
+      "sub": "Transforms and Discrete Mathematics",
+      "credit": 4
+    },
+    {
+      "sno": 2,
+      "subcode": "IT19301",
+      "sub": "Digital Electronics",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "IT19302",
+      "sub": "Software Engineering Essentials",
+      "credit": 3
+    },
+    {
+      "sno": 4,
+      "subcode": "IT19303",
+      "sub": "Advanced Data Structures",
+      "credit": 3
+    },
+    {
+      "sno": 5,
+      "subcode": "CS19341",
+      "sub": "Design and Analysis of Algorithms",
+      "credit": 4
+    },
+    {
+      "sno": 6,
+      "subcode": "IT19341",
+      "sub": "Introduction to OOP and Java",
+      "credit": 5
+    },
+    {
+      "sno": 7,
+      "subcode": "MC19301",
+      "sub": "Essence of Indian Traditional Knowledge",
+      "credit": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65be1221d87f2b31ae17ed26"
+  },
+  "sem": 4,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "MA19454",
+      "sub": "Probability, Statistics and Queuing Theory",
+      "credit": 4
+    },
+    {
+      "sno": 2,
+      "subcode": "IT19401",
+      "sub": "Computer Organization",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "GE19304",
+      "sub": "Fundamentals of Management for Engineers",
+      "credit": 3
+    },
+    {
+      "sno": 4,
+      "subcode": "GE19301",
+      "sub": "Life Science for Engineers",
+      "credit": 3
+    },
+    {
+      "sno": 5,
+      "subcode": "IT19441",
+      "sub": "Operating System Design",
+      "credit": 5
+    },
+    {
+      "sno": 6,
+      "subcode": "CS19443",
+      "sub": "Database Management Systems",
+      "credit": 5
+    },
+    {
+      "sno": 7,
+      "subcode": "GE19421",
+      "sub": "Soft Skills-I",
+      "credit": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65be1247d87f2b31ae17ed28"
+  },
+  "sem": 5,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "IT19501",
+      "sub": "Automata Theory & Compiler Design",
+      "credit": 4
+    },
+    {
+      "sno": 2,
+      "subcode": "EC19505",
+      "sub": "Analog and Digital Communication",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "Open Elective –I",
+      "sub": "OE",
+      "credit": 3
+    },
+    {
+      "sno": 4,
+      "subcode": "IT19541",
+      "sub": "Web Technology",
+      "credit": 4
+    },
+    {
+      "sno": 5,
+      "subcode": "CS19541",
+      "sub": "Computer Networks",
+      "credit": 5
+    },
+    {
+      "sno": 6,
+      "subcode": "EC19443",
+      "sub": "Principles of Microprocessors and Microcontroller",
+      "credit": 5
+    },
+    {
+      "sno": 7,
+      "subcode": "IT19521",
+      "sub": "Open Source Programming and Tutorial Lab",
+      "credit": 2
+    },
+    {
+      "sno": 8,
+      "subcode": "GE19521",
+      "sub": "Soft Skills-II",
+      "credit": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65be1279d87f2b31ae17ed2a"
+  },
+  "sem": 6,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "Professional Elective-I",
+      "sub": "PE",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "Open Elective –II",
+      "sub": "OE",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "IT19641",
+      "sub": "Mobile Communication",
+      "credit": 4
+    },
+    {
+      "sno": 4,
+      "subcode": "IT19642",
+      "sub": "Cryptography and Information Security",
+      "credit": 4
+    },
+    {
+      "sno": 5,
+      "subcode": "IT19643",
+      "sub": "Artificial Intelligence and Machine Learning",
+      "credit": 4
+    },
+    {
+      "sno": 6,
+      "subcode": "IT19644",
+      "sub": "Innovation and Design Thinking for Information Technology",
+      "credit": 4
+    },
+    {
+      "sno": 7,
+      "subcode": "GE19621",
+      "sub": "Problem Solving Techniques",
+      "credit": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65be12a2d87f2b31ae17ed2e"
+  },
+  "sem": 7,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "Professional Elective-II",
+      "sub": "PE",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "Professional Elective-III",
+      "sub": "PE",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "IT19741",
+      "sub": "Cloud and Big Data Analytics",
+      "credit": 5
+    },
+    {
+      "sno": 4,
+      "subcode": "IT19711",
+      "sub": "Industry Practices Lab",
+      "credit": 2
+    },
+    {
+      "sno": 5,
+      "subcode": "IT19712",
+      "sub": "Project Phase I",
+      "credit": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65be12c1d87f2b31ae17ed30"
+  },
+  "sem": 8,
+  "subjects": [
+    {
+      "sno": 1,
+      "subcode": "Professional Elective-IV",
+      "sub": "PE",
+      "credit": 3
+    },
+    {
+      "sno": 2,
+      "subcode": "Professional Elective-V",
+      "sub": "PE",
+      "credit": 3
+    },
+    {
+      "sno": 3,
+      "subcode": "IT19811",
+      "sub": "Project Phase II",
+      "credit": 6
+    }
+  ]
+}]
